@@ -23,7 +23,7 @@ CSVファイルの中身を簡単に確認したい方のために制作しま�
  
  1-6までのCSVのidと社名を紐付けたデータです。
  
- ![](https://github.com/hodaka0714/XAI_annualreport/blob/main/images_for_readme/0.png | width=100)
+ ![](https://github.com/hodaka0714/XAI_annualreport/blob/main/images_for_readme/0.png)
  
  
 ### 1_nikkei225_2015_2019.csv
